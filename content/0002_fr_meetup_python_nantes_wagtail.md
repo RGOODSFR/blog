@@ -3,7 +3,7 @@ Date: 2024-02-09 08:00
 Id: 0002
 Slug: python-nantes-un-cms-pour-django-mais-pas-que
 Lang: fr
-Category: community
+Category: communauté
 Summary: Un résumé de la présentation de Sébastien lors du meetup Python Nantes du 09/02/2024
 
 Lors du meetup PythonNante d'hier soir, hébergé par [OctousMind](https://octopusmind.info) & [RGOODS](https://rgoods.com),

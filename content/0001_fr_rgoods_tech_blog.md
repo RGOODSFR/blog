@@ -3,6 +3,7 @@ Date: 2024-02-09 08:00
 Id: 0001
 Slug: notre-blog-tech
 Lang: fr
+Category: divers
 Summary: Nous aidons les associations et les ONG en leur proposant des moyens innovants d'accroître leur base de donateurs et leurs ressources. Nous considérons la publication de ce blog comme un moyen simple, constructif et naturel de participer à la vie de la communauté.
 
 # Qui sommes-nous ?
