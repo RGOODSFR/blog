@@ -38,6 +38,8 @@ MAIN_MENU = True
 MENUITEMS = (
     ('Archives', '/archives.html'),
     ('Categories', '/categories.html'),
+    ('EN', '/'),
+    ('FR', '/fr'),
 )
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -66,9 +68,9 @@ I18N_SUBSITES = {
             "Nous construisons des outils cool pour aider les associations et les ONGs à récolter plus de fonds.<br />"
             "Sur ce blog, nous parlons principalement de Python/Django/Wagtail & VueJS."
         ),
-        'MENUITEMS': (
-            ('Archives', '/fr/archives.html'),
-            ('Catégories', '/fr/categories.html'),
+        'LINKS': (
+            ("divers", "/fr/category/divers.html"),
+            ("communauté", "/fr/category/communaute.html"),
         ),
         'DEFAULT_LANG': "fr"
     }

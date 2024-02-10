@@ -6,6 +6,8 @@ Lang: fr
 Category: communauté
 Summary: Un résumé de la présentation de Sébastien lors du meetup Python Nantes du 09/02/2024
 
+![Sébastien présente Wagtail au meetup Python Nantes du 09 février 2024](/images/articles/meetup-python-nantes-2024-02-09.jpg "Sébastien présente Wagtail au meetup Python Nantes du 09 février 2024")
+
 Lors du meetup PythonNante d'hier soir, hébergé par [OctousMind](https://octopusmind.info) & [RGOODS](https://rgoods.com),
 Sébastien a fait une présentation de Wagtail mêlant introduction généraliste et description de notre utilisation
 de Wagtail pour nos cas d'usages métiers spécifiques dans le cadre du développement de RGIVE, notre formulaire de dons :
