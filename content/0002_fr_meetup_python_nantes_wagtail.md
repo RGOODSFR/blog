@@ -6,8 +6,6 @@ Lang: fr
 Category: community
 Summary: Un résumé de la présentation de Sébastien lors du meetup Python Nantes du 09/02/2024
 
-# Wagtail : Un CMS pour Django, mais pas que
-
 Lors du meetup PythonNante d'hier soir, hébergé par [OctousMind](https://octopusmind.info) & [RGOODS](https://rgoods.com),
 Sébastien a fait une présentation de Wagtail mêlant introduction généraliste et description de notre utilisation
 de Wagtail pour nos cas d'usages métiers spécifiques dans le cadre du développement de RGIVE, notre formulaire de dons :
@@ -18,3 +16,4 @@ de Wagtail pour nos cas d'usages métiers spécifiques dans le cadre du dévelop
 - Cas d'usages Wagtail/RGIVE
 
 Les slides de la présentation sont disponibles ici : 
+[Wagtail : Un CMS pour Django, mais pas que]({attach}/downloads/wagtail-un-cms-pour-django-mais-pas-que.pdf)

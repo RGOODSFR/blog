@@ -8,7 +8,7 @@ TIMEZONE = 'Europe/Paris'
 
 ARTICLE_TRANSLATION_ID = 'id'
 DEFAULT_LANG = 'fr'
-LOCALE = ('fr_FR', 'fr')
+LOCALE = 'fr_FR'
 
 
 # Feed generation is usually not desired when developing
@@ -30,8 +30,6 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = False
-
-DELETE_OUTPUT_DIRECTORY = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 # Uncomment following line if you want document-relative URLs when developing
