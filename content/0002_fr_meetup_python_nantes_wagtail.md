@@ -1,10 +1,10 @@
 Title: Wagtail : Un CMS pour Django, mais pas que
 Date: 2024-02-09 08:00
+Id: 0002
 Slug: python-nantes-un-cms-pour-django-mais-pas-que
 Lang: fr
 Category: community
 Summary: Un résumé de la présentation de Sébastien lors du meetup Python Nantes du 09/02/2024
-Status: draft
 
 # Wagtail : Un CMS pour Django, mais pas que
 

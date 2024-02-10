@@ -1,7 +1,10 @@
 Title: RGOODS tech blog
 Date: 2024-02-09 08:00
+Id: 0001
 Slug: our-tech-blog
 Lang: en
+Translation: true
+
 
 # Who are we?
 

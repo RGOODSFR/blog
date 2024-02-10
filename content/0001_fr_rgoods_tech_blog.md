@@ -1,6 +1,7 @@
 Title: Le blog tech de RGOODS
 Date: 2024-02-09 08:00
-Slug: our-tech-blog
+Id: 0001
+Slug: notre-blog-tech
 Lang: fr
 
 # Qui sommes-nous ?
