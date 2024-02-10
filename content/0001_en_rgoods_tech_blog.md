@@ -3,7 +3,8 @@ Date: 2024-02-09 08:00
 Id: 0001
 Slug: our-tech-blog
 Lang: en
-Translation: true
+Save_as: index.html
+Summary: We help associations and NGOs by offering them innovative ways to increase their donor base and boost their resources. We see the publication of this blog as a simple, constructive and natural way of participate in the community.
 
 
 # Who are we?
@@ -17,7 +18,7 @@ A major part of our business involves the development of SaaS software. To carry
 best  possible tools.
 
 Our customers are associations with a very strong social, medical and environmental impact, and we have a duty to
-share their values. Our team and our products are therefore designed to be : **ethical, responsible, accessible
+share their values. Our team and our products are therefore designed to be : **ethical, responsible,
 inclusive and open**.
 
 # Why publish a technical blog?

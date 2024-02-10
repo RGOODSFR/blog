@@ -3,6 +3,7 @@ Date: 2024-02-09 08:00
 Id: 0001
 Slug: notre-blog-tech
 Lang: fr
+Summary: Nous aidons les associations et les ONG en leur proposant des moyens innovants d'accroître leur base de donateurs et leurs ressources. Nous considérons la publication de ce blog comme un moyen simple, constructif et naturel de participer à la vie de la communauté.
 
 # Qui sommes-nous ?
 
@@ -15,7 +16,7 @@ Un volet majeur de notre activité induit le développement de logiciels SaaS. P
 constituons **une équipe technique expérimentée, passionnée et engagée** à fournir les meilleurs outils à nos clients.
 
 Nos clients sont des associations à très fort impact sociétal, médical, environnemental et nous nous devons de
-partager leurs valeurs. Notre équipe et nos réalisations se veulent donc : **éthiques, responsables, accessibles,
+partager leurs valeurs. Notre équipe et nos réalisations se veulent donc : **éthiques, responsables,
 inclusives et ouvertes**.
 
 # Pourquoi publier un blog technique ?
