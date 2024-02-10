@@ -3,7 +3,6 @@ Date: 2024-02-09 08:00
 Id: 0001
 Slug: our-tech-blog
 Lang: en
-Save_as: index.html
 Category: misc
 Summary: We help associations and NGOs by offering them innovative ways to increase their donor base and boost their resources. We see the publication of this blog as a simple, constructive and natural way of participate in the community.
 
