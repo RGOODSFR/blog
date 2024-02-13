@@ -72,6 +72,12 @@ I18N_SUBSITES = {
             ("divers", "/fr/category/divers.html"),
             ("communauté", "/fr/category/communaute.html"),
         ),
+        'MENUITEMS': (
+            ('Archives', '/fr/archives.html'),
+            ('Catégories', '/fr/categories.html'),
+            ('EN', '/'),
+            ('FR', '/fr'),
+        ),
         'DEFAULT_LANG': "fr"
     }
 }
