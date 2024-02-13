@@ -39,4 +39,3 @@ languages are **Python** **Javascript**, which we use mainly through **Django**,
 
 So it's likely that most of the articles on this blog will be on these topics.
 
-Translated with DeepL.com (free version)
