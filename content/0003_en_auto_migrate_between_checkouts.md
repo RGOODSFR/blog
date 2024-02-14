@@ -9,12 +9,12 @@ Summary: How to use git hooks to automatically reset your database state to one 
 # The problem
 
 When working in a team and peer-reviewing code, you might find yourself navigating between branches a lot, 
-and with the way Django manages database state through migrations, you can easily forget to unaply migrations before changing branches.
+and with the way Django manages database state through migrations, you can easily forget to unapply migrations before changing branches.
 Let's see how we can improve that.
 
 # Detecting differences in migrations
 
-The right moment for checking migrations state is when code changes by inovking a `git checkout`, so we can make use 
+The right moment for checking migrations state is when code changes by invoking a `git checkout`, so we can make use 
 of [git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) for that.
 
 Now, in this hook, we must be aware of the django setup (settings, database, and so on), so we'll be working 
