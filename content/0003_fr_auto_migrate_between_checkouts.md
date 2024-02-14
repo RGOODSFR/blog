@@ -14,7 +14,7 @@ Voyons comment nous pouvons améliorer cela.
 
 # Détection des différences dans les migrations
 
-Le bon moment pour vérifier l'état des migrations est lorsque le code change en lançant un `git checkout`, nous pouvons donc utiliser les [hooks de git](https://git-scm.com/book/fr/v2/Personnalisation-de-Git-Crochets-Git) pour cela.
+Le bon moment pour vérifier l'état des migrations est lorsque le code change en lançant un `git checkout`, nous pouvons donc utiliser les [hooks git](https://git-scm.com/book/fr/v2/Personnalisation-de-Git-Crochets-Git) pour cela.
 
 Maintenant, dans ce hook, nous devons avoir le contexte de configuration de django (paramètres, base de données, et ainsi de suite), donc nous allons travailler avec une [commande personnalisée](https://docs.djangoproject.com/fr/5.0/howto/custom-management-commands/) pour avoir facilement le contexte de Django.
 
@@ -22,7 +22,7 @@ Pour vérifier les différences dans les migrations, j'ai d'abord regardé l'opt
 car elle détecte la différence entre les migrations appliquées (existant dans la base de données) et celles déclarées dans le code.
 
 Cette partie utilise le `MigrationExecutor` pour vérifier les migrations manquantes appliquées et les supprimer :
-``python
+```python
 set(executor.loader.applied_migrations) - set(executor.loader.disk_migrations)
 ```
 
