@@ -101,6 +101,7 @@ fi
 # Some limitations
 
 This works only if 
+
  - your migrations have reverse operations
  - your database state is not broken
  - you set the right directory `src` in this git hook

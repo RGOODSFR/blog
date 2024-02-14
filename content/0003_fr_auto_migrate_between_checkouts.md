@@ -98,6 +98,7 @@ fi
 # Quelques limitations
 
 Cela ne fonctionne que si :
+
  - vos migrations ont des opérations inverses (paramètre `reverse`)
  - l'état de votre base de données est sain
  - le répertoire de travail `src` dans ce hook git est adapté à votre projet
