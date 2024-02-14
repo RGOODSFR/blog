@@ -4,7 +4,6 @@ Id: 0003
 Slug: auto-migrate-between-checkouts
 Lang: en
 Category: django
-Status: draft
 Summary: How to use git hooks to automatically reset your database state to one compatible ith branches you are checking.
 
 # The problem
