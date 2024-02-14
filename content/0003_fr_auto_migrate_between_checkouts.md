@@ -3,7 +3,8 @@ Date: 2024-02-14 14:00
 Id: 0003
 Slug: django-migrer-automatiquement-entre-checkouts-git
 Lang: fr
-Category: django
+Category: développement
+Tags: django, git
 Summary: Comment utiliser les hooks git pour réinitialiser automatiquement l'état de votre base de données à un état compatible avec la branche sur laquelle vous basculez.
 
 # Le problème

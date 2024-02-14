@@ -23,6 +23,7 @@ AUTHOR_FEED_RSS = None
 
 LINKS = (
     ("misc", "/category/misc.html"),
+    ("development", "/category/development.html"),
 )
 
 # Social widget
@@ -38,6 +39,7 @@ MAIN_MENU = True
 MENUITEMS = (
     ('Archives', '/archives.html'),
     ('Categories', '/categories.html'),
+    ('Tags', '/tags.html'),
     ('EN', '/'),
     ('FR', '/fr'),
 )
@@ -70,11 +72,13 @@ I18N_SUBSITES = {
         ),
         'LINKS': (
             ("divers", "/fr/category/divers.html"),
+            ("développement", "/category/developpement.html"),
             ("communauté", "/fr/category/communaute.html"),
         ),
         'MENUITEMS': (
             ('Archives', '/fr/archives.html'),
             ('Catégories', '/fr/categories.html'),
+            ('Tags', '/fr/tags.html'),
             ('EN', '/'),
             ('FR', '/fr'),
         ),
