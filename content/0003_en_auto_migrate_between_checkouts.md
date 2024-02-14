@@ -4,7 +4,7 @@ Id: 0003
 Slug: auto-migrate-between-checkouts
 Lang: en
 Category: django
-Summary: How to use git hooks to automatically reset your database state to one compatible ith branches you are checking.
+Summary: How to use git hooks to automatically reset your database state to one compatible with the branch you are checking.
 
 # The problem
 
@@ -14,10 +14,10 @@ Let's see how we can improve that.
 
 # Detecting differences in migrations
 
-The right moment for checking migrations state is when code changes by inovoking a `git checkout`, so we can make use 
+The right moment for checking migrations state is when code changes by inovking a `git checkout`, so we can make use 
 of [git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) for that.
 
-Now, in this hooks, we must be aware of the django setup (settings, database, and so on), so we'll be working 
+Now, in this hook, we must be aware of the django setup (settings, database, and so on), so we'll be working 
 through a [management command](https://docs.djangoproject.com/en/5.0/howto/custom-management-commands/) to easily have the Django context.
 
 To check for difference in migrations, I initially looked into the `--prune` option of [`migrate`](https://github.com/django/django/blob/5.0/django/core/management/commands/migrate.py#L191-240) command 
