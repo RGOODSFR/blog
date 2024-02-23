@@ -158,3 +158,5 @@ La version décrite ci-dessous est volontairement simplifiée pour la rendre plu
 - proposer une option permettant de forcer la resynchronisation globale de tous les fichiers
 - supprimer les fichiers statiques temporaires collectés localement
 - ajouter des logs
+
+Nous avons publiée la [version complète](https://gist.github.com/fle/e21100c5f0d0de9aa62e47da68f99017).

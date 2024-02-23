@@ -158,3 +158,5 @@ The version described below is deliberately simplified to make it easier to read
 - offer an option to force global resynchronisation of all files
 - remove locally collected temporary static files
 - add logs
+
+We have published the [full version](https://gist.github.com/fle/e21100c5f0d0de9aa62e47da68f99017).
