@@ -2,7 +2,7 @@ Title: Django : Accelerate the collection of static files on AWS S3
 Date: 2024-02-23 18:00
 Id: 0004
 Slug: django-accelerate-collectstatic-on-aws-s3
-Lang: fr
+Lang: en
 Category: development
 Tags: django, aws
 Summary: Our strategy for making the collection of static files from a Django application on AWS S3 much faster and more economical.
