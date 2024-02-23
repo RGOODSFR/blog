@@ -87,7 +87,8 @@ The context manager:
         by whitenoise (a full-featured local storage with compression and manifest)
         """
         self._original_storage = self.storage
-        self.storage = import_string("whitenoise.storage.CompressedManifestStaticFilesStorage")()
+        backend = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+        self.storage = import_string(backend)()
         yield
         self.storage = self._original_storage
 ```
