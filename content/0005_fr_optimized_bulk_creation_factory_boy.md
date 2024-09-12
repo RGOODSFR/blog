@@ -1,9 +1,9 @@
-Titre : Factory-Boy : Optimiser la création en masse
+Title : Factory-Boy : Optimiser la création en masse
 Date : 2024-09-12 16:42
 Id : 0005
 Slug : optimiser-creation-en-masse-factory_boy
 Lang : fr
-Categgory : développement
+Category : développement
 Tags : django, tests
 Summary : Accélérer la création de grands ensembles de données avec factory_boy
 
