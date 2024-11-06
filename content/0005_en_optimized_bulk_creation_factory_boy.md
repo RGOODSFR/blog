@@ -32,7 +32,7 @@ This means that an instance is generated and created for each iteration, resulti
 
 To prevent too much SQL queries, it would be better to use `bulk_create` from the Django manager.
 
-A simple solution can be to generate the instance and then saving them, you can also pass parameters (`notifications_enabled` for example):
+A simple solution can be to generate the instances and then saving them, you can also pass parameters (`notifications_enabled` for example):
 ```python
 class ContactFactory(DjangoModelFactory):
     class Meta:
