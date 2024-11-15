@@ -33,4 +33,5 @@ Les slides de la présentation sont disponibles ici :
   - Système de branches de migration (Alembic) pre/post
 
 - [Tempête de boulettes géantes](https://www.pycon.fr/2024/fr/talks/long-talk.html#talk-7DNDLP)
-  - A voir
+  - Un retour d'expérience de la communauté sur les "boulettes", ces erreurs que l'ont fait en production et qui peuvent avoir de grandes conséquences
+  - Un classement de celles-ci par typologie et les solutions à mettre en place pour ne pas les reproduire ou les éviter
