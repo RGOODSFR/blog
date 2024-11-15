@@ -17,7 +17,7 @@ Les objectifs de cette présentation étaient de:
 1. donner quelques conseils sur l'utilisation du CMS
 
 Les slides de la présentation sont disponibles ici :
-[PyconFR 2024 : On a créé notre SaaS avec Wagtail]({attach}/downloads/pyconfr24-on-a-cree-notre-saas-avec-wagtail.pdf)
+[PyconFR 2024 : On a créé notre SaaS avec Wagtail](https://docs.google.com/presentation/d/e/2PACX-1vQ_4_AOIPARk-YpCgsToQ-NrfPgg9jWJ4LklpDceamIW_F2Ul2oOGC9SvNzRUWAfsVKEBVBcdTPZOtJ/pub?start=false&loop=false)
 
 ## Nous avons aussi retenu
 
