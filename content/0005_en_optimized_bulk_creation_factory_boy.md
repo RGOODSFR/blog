@@ -9,7 +9,7 @@ Summary: Speed up large dataset creation in factory boy
 
 # The problem
 
-When creating large dataset using [factory_boy](https://pypi.org/project/factory-boy/), you may find yourself using [`MyFactory.create_batch()`](https://factoryboy.readthedocs.io/en/stable/reference.html#factory.create_batch) which is great for specifyng a size, but falls short in terms of performance when using factories based on Django models.
+When creating large dataset using [factory_boy](https://pypi.org/project/factory-boy/), you may find yourself using [`MyFactory.create_batch()`](https://factoryboy.readthedocs.io/en/stable/reference.html#factory.create_batch) which is great for specifying a size, but falls short in terms of performance when using factories based on Django models.
 
 Indeed, here's the related source code:
 ```python
