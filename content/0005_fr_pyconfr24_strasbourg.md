@@ -21,7 +21,7 @@ Les slides de la présentation sont disponibles ici :
 
 ## Nous avons aussi retenu
 
-- [Une versionnée automatiquement](https://www.pycon.fr/2024/fr/talks/short-talk.html#talk-9YNYJQ)
+- [Une application versionnée automatiquement](https://www.pycon.fr/2024/fr/talks/short-talk.html#talk-9YNYJQ)
   - Utilisation du package `python-semantic-version`
   - Se base sur les noms des commits ([convention de nommage Angular](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)) afin de créer des sous-versions automatiquement
   - [Billet de blog](https://rigaudie.fr/article/python/generer-une-application-versionnee-automatiquement-avec-une-release-semantique/)
