@@ -1,6 +1,6 @@
 Title: PyConFR 2024 : On a créé notre SaaS avec Wagtail
 Date: 2024-11-03 08:00
-Id: 0005
+Id: 0006
 Slug: pyconfr24-on-a-cree-notre-saas-avec-wagtail
 Lang: fr
 Category: communauté
