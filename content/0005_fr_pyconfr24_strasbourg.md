@@ -28,6 +28,7 @@ Les slides de la présentation sont disponibles ici :
 
 
 - [Mettre à jour le schéma d'une vaste base de données sans downtime et sans stress](https://www.pycon.fr/2024/fr/talks/short-talk.html#talk-WQEXVB)
+  - L'équipe du Pass Culture a présenté sa manière de faire du "zero-downtime deployment"
   - Gestion des migrations avec [Flask + SQLAlchemy](https://flask-sqlalchemy.readthedocs.io/en/stable/)
   - Système de branches de migration (Alembic) pre/post
 
